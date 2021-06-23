@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
                     showOfflineAlert("");
             }
             catch (Exception e){
+                showOfflineAlert("");
                 Log.d("GOT Exception","GOT EXCEPTION"+e);
             }
         }
