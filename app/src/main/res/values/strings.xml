@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WikiSearch</string>
+    <string name="offlinetext">No Internet connection,No Offline Data, Please Switch On the internet to View in Offline Mode.</string>
+    <string name="retry">RETRY</string>
+</resources>
